@@ -1,0 +1,21 @@
+# Python/Django
+venv/
+__pycache__/
+*.pyc
+*.pyo
+db.sqlite3
+.env
+
+# Node.js/React
+node_modules/
+dist/
+npm-debug.log
+yarn-error.log
+.vscode/
+.DS_Store
+
+# Git Ignore Logs & Build Files
+*.log
+.idea/
+*.swp
+coverage/
